@@ -1,0 +1,13 @@
+ipykernel
+numpy
+seaborn
+scikit-learn
+matplotlib
+# opencv-python        ----> for local system
+opencv-python-headless   # only for streamlit cloud
+
+# tensorflow==2.19.0
+tensorflow
+keras
+tqdm
+streamlit
